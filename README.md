@@ -1,7 +1,6 @@
 # TikTok Live → Game Input Bot
 
-โปรเจกต์นี้ใช้สำหรับดึงข้อความจาก TikTok Live Chat แล้วส่งข้อความไปยังเกมบนเว็บ  
-(สามารถเลือกได้ว่าจะพิมพ์อัตโนมัติด้วย `pyautogui` หรือควบคุม browser ด้วย `selenium`)
+โปรเจกต์นี้ใช้สำหรับดึงข้อความจาก TikTok Live Chat 
 
 ---
 
