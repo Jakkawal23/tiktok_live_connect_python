@@ -6,6 +6,11 @@
 
 # วิธีติดตั้งและใช้งาน
 
+### ตั้งค่า Username
+```bash
+เปลี่ยนค่า @channlename เป็นช่องที่ต้องการ
+```
+
 ## Windows (PowerShell)
 
 ### 1. สร้าง Virtual Environment
@@ -49,3 +54,10 @@ pip install -r requirements.txt
 ```bash
 python main.py  
 ```
+
+## Example web
+
+![Example](images/20250915_01.png)
+![Example](images/20250915_02.png)
+![Example](images/20250915_03.png)
+![Example](images/20250915_04.png)
